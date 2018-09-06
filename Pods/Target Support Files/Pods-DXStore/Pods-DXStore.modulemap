@@ -1,0 +1,6 @@
+framework module Pods_DXStore {
+  umbrella header "Pods-DXStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
